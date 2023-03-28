@@ -13,6 +13,7 @@ public class Casilla {
 
     Casilla(){
         this.estado=Estado.AGUA;
+        this.estado=Estado.BARCO;
     }
 
     /**
