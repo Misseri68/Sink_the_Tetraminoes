@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="demo/src/main/java"/>
+	<classpathentry excluding="src/main/java/" kind="src" path="demo1"/>
+	<classpathentry kind="src" path="demo1/src/main/java"/>
+	<classpathentry kind="src" path="Hundir_los_Tetraminos/src/main/java"/>
+	<classpathentry kind="src" path="untitled/src"/>
+	<classpathentry kind="src" path="untitled1/src"/>
+	<classpathentry kind="lib" path="demo/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="Hundir_los_Tetraminos/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="output" path="Hundir_los_Tetraminos/target/classes"/>
+</classpath>
